@@ -1,7 +1,7 @@
 # Istio Installation Guide
 
 ## Install Istio
-- Download the Istio distribution by following the instructions at https://istio.io/v1.16/docs/setup/install/istioctl/ and set up the PATH accordingly.
+- Download the Istio distribution by following the instructions at https://istio.io/v1.16/docs/setup/install/istioctl/ and set up the PATH according.
 
 ## Install Kiali
 - Install Kiali by using the following command: https://istio.io/latest/docs/tasks/observability/kiali/
