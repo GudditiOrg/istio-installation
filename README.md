@@ -21,3 +21,6 @@
 -  istioctl dashboard promethues &
 -  istioctl dashboard prometheus &
 
+https://gnaganjaneyulu.blogspot.com/2023/08/introduction-to-istio-kiali-jaeger.html
+
+
