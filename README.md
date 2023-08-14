@@ -30,7 +30,7 @@ Prometheus is a free software application used for event monitoring and alerting
 ### Dashboards 
 -  istioctl dashboard kiali &
 -  istioctl dashboard grafana &
--  istioctl dashboard promethues &
+-  istioctl dashboard jaeger &
 -  istioctl dashboard prometheus &
 
 https://gnaganjaneyulu.blogspot.com/2023/08/introduction-to-istio-kiali-jaeger.html
