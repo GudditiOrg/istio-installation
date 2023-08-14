@@ -1,4 +1,4 @@
-# Istio Installation Guide
+# Istio Installation Guide.
 
 ## Install Istio
 - Download the Istio distribution by following the instructions at https://istio.io/v1.16/docs/setup/install/istioctl/ and set up the PATH according.
